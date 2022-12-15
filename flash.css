@@ -1,0 +1,120 @@
+/*.html{
+  font-family: 'Inter', sans-serif;
+  font-family: 'Modak', cursive;
+  font-weight: 400;*/
+}
+body{
+  width: 100vw;
+  height: 100vw;
+
+}
+
+.wraper{
+  width: 100%;
+  height: 100%;
+  display: flex
+  justify-content: center;
+
+}
+
+.two{
+  background: white;
+  height: 100%;
+  width:100%;
+  
+}
+
+.title {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 16rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+}
+
+.four{
+  width: 100%;
+  height: 80%;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  
+}
+
+.card1{
+  width: 200px;
+  height: 220px;
+  background: white;
+  margin: 10px;
+  padding:25px;
+  /*flex-direction: row;*/ 
+  margin-left: 15rem;
+  margin-right: 5rem;
+  box-shadow: 1px 3px 4px #ccc;
+  border: solid 1px #ccc;
+  border-radius: 10px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
+.card2{
+  width: 200px;
+  height: 220px;
+  background: black;
+  margin: 5px;
+  padding:25px;
+  /*flex-direction: row;*/ 
+  margin-left: 5rem;
+  margin-right: 5rem;
+  box-shadow: 1px 3px 4px #ccc;
+  border: solid 1px #ccc;
+  border-radius: 10px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
+.card2{
+  color: white;
+}
+
+.card3{
+  width: 200px;px;
+  height: 220px;
+  background: white;
+  margin: 10px;
+  padding:25px;
+  /*flex-direction: row;*/ 
+  margin-left: 5rem;
+  margin-right: 5rem;
+  box-shadow: 1px 3px 4px #ccc;
+  border: solid 1px #ccc;
+  border-radius: 10px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
+.pinky{
+  color: black;  
+  background-color: pink;
+}
+
+.card4{
+  width: 200px;px;
+  height: 220px;
+  background: white;
+  margin: 10px;
+  padding:25px;
+  /*flex-direction: row;*/ 
+  margin-left: 15rem;
+  margin-top: 4rem;
+  margin-right: 5rem;
+  box-shadow: 1px 3px 4px #ccc;
+  border: solid 1px blue;
+  border-radius: 10px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+  .redy{
+    color: red;
+  }
+ 
